@@ -1,7 +1,7 @@
 /*
  * Notepad 主程序
  * wangding 408542507@qq.com 2018
- */
+ */2
 
 let np = {};                // Notepad 主程序对象
 
