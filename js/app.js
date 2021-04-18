@@ -10,7 +10,7 @@ np.config = {
 };
 
 np.bShowStatusBar = localStorage.getItem('bShowStatusBar') || true;   // 是否显示状态栏
-np.bWrap          = localStorage.getItem('bWrap') || false;            // 是否换行
+np.bWrap          = localStorage.getItem('bWrap') || true;            // 是否换行
 np.fontFamily     = localStorage.getItem('fontFamily') || 'Arial';     // 默认字体
 np.fontStyle      = localStorage.getItem('fontStyle') || '常规';       // 默认字体样式
 np.fontSize       = localStorage.getItem('fontSize') || '16';          // 默认字体大小：16pt
