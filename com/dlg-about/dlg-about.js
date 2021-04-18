@@ -9,9 +9,7 @@ let $dlgAbout = new Dialog('about');
     <hr>
     <img class="app-logo" src="../../images/notepad-icon-32.png" alt="JSNotepad">
     <div class="info">
-      <p>作者：王顶</p>
-      <p>QQ：408542507</p>
-      <p>仓库地址：<a href="${reposURL}" target="_blank">${reposURL}</a></p>
+      
     </div>
     <input class="btn-ok btn" type="button" value="确定" autofocus>`;
 
